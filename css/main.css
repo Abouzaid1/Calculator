@@ -104,7 +104,7 @@ input[type=text] {
     .main-div{
         align-items: end !important;
         padding-bottom: 20px;
-        padding-top:80px;
+        padding-top:0px;
     }
     .icon{
       position: absolute;
